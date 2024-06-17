@@ -1,2 +1,2 @@
 # FinBERT
-ECNU 社会计算
+FinBert
