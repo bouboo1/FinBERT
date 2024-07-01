@@ -110,7 +110,7 @@ optimizer = AdamW(model.parameters(), lr=5e-6)
 
 model.to(device)
 
-num_epochs = 3
+num_epochs = 50
 for epoch in range(num_epochs):
     model.train()
     epoch_loss = 0
